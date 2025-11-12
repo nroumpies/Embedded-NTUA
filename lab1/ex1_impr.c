@@ -146,6 +146,7 @@ void phods_motion_estimation(const int current[N][M], const int previous[N][M],
         for(i=-S; i<S+1; i+=S)
         {
           distx = 0;
+		  disty = 0;
 
           //For all pixels in the block
           for(k=0; k<B; k++)
