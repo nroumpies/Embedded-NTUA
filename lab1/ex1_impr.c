@@ -55,8 +55,8 @@ void phods_motion_estimation(const int current[N][M], const int previous[N][M],
       vectors_x[x][y] = 0;
       vectors_y[x][y] = 0;
       //3rd Optimization: Reduce multiplications by doing one initially, while also probably keeping B on case
-      //Bx = B*x;
-      //By = B*y;
+      //int Bx = B*x;
+      //int By = B*y;
       S = 4;
 
       while(S > 0)
@@ -159,12 +159,26 @@ void phods_motion_estimation(const int current[N][M], const int previous[N][M],
                   (B*y + vectors_y[x][y] + l) < 0 ||
                   (B*y + vectors_y[x][y] + l) > (M-1))
               {
-                p2,q2 = 0;
+                p2 = 0;
               } else {
                 p2 = previous[B*x+vectors_x[x][y]+i+k][B*y+vectors_y[x][y]+l];
+              }
+
+              if((B*x + vectors_x[x][y] + k) <0 ||
+                  (B*x + vectors_x[x][y] + k) > (N-1) ||
+                  (B*y + vectors_y[x][y] + i + l) < 0 ||
+                  (B*y + vectors_y[x][y] + i + l) > (M-1))
+              {
+                q2 = 0;
+              } else {
                 q2 = previous[B*x+vectors_x[x][y]+k][B*y+vectors_y[x][y]+i+l];
               }
               
+              //5th Optimization: Use abs instead of if-else statements
+              //distx += abs(p1 - p2);
+              //disty += abs(p1 - q2);
+
+
               if(p1-p2>0){
                   distx += p1-p2;
               }
