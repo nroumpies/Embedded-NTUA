@@ -8,8 +8,11 @@
 .global main
 
 
-_start:main:
-       
+_start:  
+    MOV r10, #' '       @ Space char for later use
+main:
+    MOV r9, #0          @ Clear last char register  
+
     MOV r0, #1          @ stdout
     LDR r1, =string     @ buffer address
     MOV r2, #22         @ number of bytes to write
@@ -29,6 +32,7 @@ _start:main:
     CMP r8, #27        @ Check if we need to end program
     BEQ exit
 
+    
     MOV r0, #1          @ stdout
     LDR r1, =buffer     @ buffer address
     MOV r2, r4          @ number of bytes to write
@@ -41,6 +45,8 @@ _start:main:
     MOV r7, #4          @ syscall: write
     SVC 0
 
+    CMP r9, #'\n'      @ Check if last char was newline
+    BEQ main
     BL Flush_stdin
 
     b main
@@ -60,21 +66,28 @@ Read_and_Convert:
 loop:
 
     LDRB r0, [r6]  @ Load first byte from buffer
+    CMP r0, #'\n'      @ Check for newline
+    BNE Check1
+    MOV r9, r0         @ Save newline char
+    STRB r10, [r6]  @ Replace newline with space
+    B end
 
 Check1:
-    CMP r0, #'a'        @ Compare with 'a'
-    BLT skip1
-    CMP r0, #'z'        @ Compare with 'z'
-    SUBLE r0, r0, #32
-    b skip3
-
-skip1:
 
     CMP r0, #'A'        @ Compare with 'A'
     BLT skip2
     CMP r0, #'Z'        @ Compare with 'Z'
-    ADDLE r0, r0, #32   @ Convert to lowercase 
-    b skip3
+    ADDLE r0, r0, #32   @ Convert to lowercase
+    BGT skip1 
+    B skip3
+
+skip1:
+
+    CMP r0, #'a'        @ Compare with 'a'
+    BLT skip3
+    CMP r0, #'z'        @ Compare with 'z'
+    SUBLE r0, r0, #32
+    B skip3
 
 skip2:
 
@@ -92,9 +105,10 @@ skip3:
     SUB r5, r5, #1      @ Decrease counter
     CMP r5, #0
     BNE  loop
-    b end
+    B end
 
 Check_Done:
+
     LDRB r0, [r6]      @ Load first byte from buffer
     MOV r8, #27        @ So that main ends program
     CMP r0, #'q'
@@ -104,7 +118,6 @@ Check_Done:
     MOV r8, #0
     B Check1
     
-
 end:
 
     BX lr
