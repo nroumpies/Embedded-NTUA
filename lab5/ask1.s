@@ -1,6 +1,7 @@
 .section .data
     buffer: .space 32
     string: .asciz "Sequence of 32 chars:\n"
+    string2: .asciz "\n"
 
 .section .text
 .global main
@@ -30,6 +31,12 @@ _start:main:
     MOV r7, #4          @ write: syscall
     SVC 0
 
+    MOV r0, #1          @ stdout
+    LDR r1, =string2    @ buffer address
+    MOV r2, #1          @ number of bytes to write
+    MOV r7, #4          @ write: syscall
+    SVC 0
+
     CMP r8, #27        @ Check if we need to end program
     BNE main
 
@@ -41,12 +48,12 @@ Read_and_Convert:
 
     MOV r5, r4         @ Counter for characters read
     LDR r6, =buffer
-    CMP r4, #2 @ Check if one character was read
+    CMP r4, #2         @ Check if one character was read + \n
     BEQ Check_Done
 
 loop:
 
-    LDRB r0, [r6], #1 @ Load first byte from buffer
+    LDRB r0, [r6]  @ Load first byte from buffer
 
 Check1:
     CMP r0, #'a'        @ Compare with 'a'
@@ -75,7 +82,7 @@ skip2:
 
 skip3:
 
-    STRB r0, [r6, #-1]   @ store back at the same address
+    STRB r0, [r6], #1   @ store back at the same address and increment pointer
     SUB r5, r5, #1      @ Decrease counter
     CMP r5, #0
     BNE  loop
