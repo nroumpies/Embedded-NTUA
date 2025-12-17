@@ -1,5 +1,6 @@
 .section .data
     buffer: .space 32
+    buffer2: .space 1
     string: .asciz "Sequence of 32 chars:\n"
     string2: .asciz "\n"
 
@@ -12,7 +13,7 @@ _start:main:
     MOV r0, #1          @ stdout
     LDR r1, =string     @ buffer address
     MOV r2, #22         @ number of bytes to write
-    MOV r7, #4          @ write: syscall
+    MOV r7, #4          @ syscall: write
     SVC 0
 
     MOV r0, #0          @ stdin 
@@ -25,24 +26,29 @@ _start:main:
     MOV r4, r0          @ save number of bytes read
     BL Read_and_Convert
 
+    CMP r8, #27        @ Check if we need to end program
+    BEQ exit
+
     MOV r0, #1          @ stdout
     LDR r1, =buffer     @ buffer address
     MOV r2, r4          @ number of bytes to write
-    MOV r7, #4          @ write: syscall
+    MOV r7, #4          @ syscall: write
     SVC 0
 
     MOV r0, #1          @ stdout
     LDR r1, =string2    @ buffer address
     MOV r2, #1          @ number of bytes to write
-    MOV r7, #4          @ write: syscall
+    MOV r7, #4          @ syscall: write
     SVC 0
 
-    CMP r8, #27        @ Check if we need to end program
-    BNE main
+    BL Flush_stdin
 
+    b main
+exit:
     MOV r0, #0
     MOV r7, #1          @ syscall: exit
     SVC 0
+    
 
 Read_and_Convert:
 
@@ -103,3 +109,25 @@ end:
 
     BX lr
 
+Flush_stdin:
+
+    PUSH {lr}
+
+Flush_loop:
+
+    MOV r0, #0          @ stdin 
+    LDR r1, =buffer2    @ buffer address
+    MOV r2, #1         @ number of bytes
+    MOV r7, #3          @ syscall: read
+    SVC 0
+
+    CMP r0, #0 
+    BEQ Flush_done
+
+    LDRB r0, [r1]
+    CMP r0, #'\n'         @ Check for newline
+    BNE Flush_loop
+
+Flush_done:
+    POP {lr}
+    BX lr
