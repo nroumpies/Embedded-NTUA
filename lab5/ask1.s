@@ -8,9 +8,10 @@
 .global main
 
 
-_start:  
-    MOV r9, #'\n'           
+_start:       
 main:        
+    MOV r9, #0    
+
     MOV r0, #1          @ stdout
     LDR r1, =string     @ buffer address
     MOV r2, #22         @ number of bytes to write
@@ -40,6 +41,10 @@ main:
     CMP r4, #32         @ If less than 32 read, skip flushing
     BLT main
 
+    
+    CMP r9, #22 
+    BEQ main
+
     @ This new line is needed for flush to know were to stop
     MOV r0, #1          @ stdout
     LDR r1, =string2    @ buffer address
@@ -68,10 +73,7 @@ loop:
     LDRB r0, [r6]      @ Load first byte from buffer
     CMP r0, #'\n'      @ Check for newline
     BNE Check1
-    CMP r4, #31
-    BNE end
-    SUB r6, r6, #1     @ Move back to overwrite newline
-    STRB r9, [r6]      @ Replace newline with space
+    ADD r9, r9, #22
     B end
 
 Check1:
@@ -107,6 +109,8 @@ skip3:
     SUB r5, r5, #1      @ Decrease counter
     CMP r5, #0
     BNE  loop
+    CMP r0, #'\n'
+    ADDEQ r9, r9, #22
     B end
 
 Check_Done:
