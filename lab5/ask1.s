@@ -9,7 +9,8 @@
 
 
 _start:  
-main:
+    MOV r9, #'\n'           
+main:        
     MOV r0, #1          @ stdout
     LDR r1, =string     @ buffer address
     MOV r2, #22         @ number of bytes to write
@@ -36,9 +37,10 @@ main:
     MOV r7, #4          @ syscall: write
     SVC 0
 
-    CMP r4, #32
+    CMP r4, #32         @ If less than 32 read, skip flushing
     BLT main
 
+    @ This new line is needed for flush to know were to stop
     MOV r0, #1          @ stdout
     LDR r1, =string2    @ buffer address
     MOV r2, #1          @ number of bytes to write
@@ -66,6 +68,10 @@ loop:
     LDRB r0, [r6]      @ Load first byte from buffer
     CMP r0, #'\n'      @ Check for newline
     BNE Check1
+    CMP r4, #31
+    BNE end
+    SUB r6, r6, #1     @ Move back to overwrite newline
+    STRB r9, [r6]      @ Replace newline with space
     B end
 
 Check1:
