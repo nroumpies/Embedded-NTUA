@@ -1,0 +1,2049 @@
+Please give a string to send to host:
+The most frequent character is
+"y"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"u"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"w"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"y"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"y"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"t"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 1 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"t"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"u"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"t"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"w"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"u"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"w"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"y"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"w"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"u"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"t"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"p"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"p"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 1 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"t"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"t"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"p"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"w"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"u"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"w"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"w"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 1 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"y"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"t"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"w"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"p"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"y"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 1 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"p"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"p"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"p"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"w"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"w"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"u"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"u"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"u"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 8 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"y"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"p"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"y"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"y"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"t"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"p"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 1 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 8 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"u"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"v"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"x"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"w"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"i"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"q"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"s"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"y"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"k"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"t"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"n"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"f"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 8 times.
+Please give a string to send to host:
+The most frequent character is
+"p"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"z"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"c"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"j"
+and it appeared 3 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"m"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 7 times.
+Please give a string to send to host:
+The most frequent character is
+"r"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"g"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"o"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"a"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"b"
+and it appeared 1 times.
+Please give a string to send to host:
+The most frequent character is
+"l"
+and it appeared 4 times.
+Please give a string to send to host:
+The most frequent character is
+"e"
+and it appeared 5 times.
+Please give a string to send to host:
+The most frequent character is
+"d"
+and it appeared 2 times.
+Please give a string to send to host:
+The most frequent character is
+"p"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"y"
+and it appeared 6 times.
+Please give a string to send to host:
+The most frequent character is
+"h"
+and it appeared 4 times.
+Please give a string to send to host:
