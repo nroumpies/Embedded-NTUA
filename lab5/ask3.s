@@ -54,7 +54,7 @@ copy_data: @ Could use strcpy, but BL adds overhead and impacts performance. But
 .align 4
 .type strcmp, %function
 .global strcmp
-strcmp3:
+strcmp:
 Compare_loop:   
     LDRB  r2, [r0], #1
     LDRB  r3, [r1], #1
