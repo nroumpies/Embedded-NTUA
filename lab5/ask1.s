@@ -9,10 +9,7 @@
 
 
 _start:  
-    MOV r10, #' '       @ Space char for later use
 main:
-    MOV r9, #0          @ Clear last char register  
-
     MOV r0, #1          @ stdout
     LDR r1, =string     @ buffer address
     MOV r2, #22         @ number of bytes to write
@@ -39,14 +36,15 @@ main:
     MOV r7, #4          @ syscall: write
     SVC 0
 
+    CMP r4, #32
+    BLT main
+
     MOV r0, #1          @ stdout
     LDR r1, =string2    @ buffer address
     MOV r2, #1          @ number of bytes to write
     MOV r7, #4          @ syscall: write
     SVC 0
 
-    CMP r9, #'\n'      @ Check if last char was newline
-    BEQ main
     BL Flush_stdin
 
     b main
@@ -65,17 +63,15 @@ Read_and_Convert:
 
 loop:
 
-    LDRB r0, [r6]  @ Load first byte from buffer
+    LDRB r0, [r6]      @ Load first byte from buffer
     CMP r0, #'\n'      @ Check for newline
     BNE Check1
-    MOV r9, r0         @ Save newline char
-    STRB r10, [r6]  @ Replace newline with space
     B end
 
 Check1:
 
     CMP r0, #'A'        @ Compare with 'A'
-    BLT skip2
+    BLT skip2           @ If less than 'A', then only care if it's a digit
     CMP r0, #'Z'        @ Compare with 'Z'
     ADDLE r0, r0, #32   @ Convert to lowercase
     BGT skip1 
@@ -122,7 +118,7 @@ end:
 
     BX lr
 
-Flush_stdin:
+Flush_stdin:          @ Clears chars after 32 have been read
 
     PUSH {lr}
 
